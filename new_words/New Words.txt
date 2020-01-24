@@ -343,7 +343,7 @@
 	236. selfish(n, adj) - egoist, xudbin
 	237. altruistic(adj) - fidokor
 	     altruist(n) - fidokor kishi
-
+	238.
 
 
 
