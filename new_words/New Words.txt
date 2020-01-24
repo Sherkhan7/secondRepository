@@ -335,7 +335,7 @@
 			  - oddiy, sodda
 	231. prohibit(v) || forbid(v) - taqiqlamoq, man qilmoq
 	232. revelation(n) - kutilmagan yangilik
-	233. execute(v) - qatl qiomoq
+	233. execute(v) - qatl qilmoq
 			- bajarmoq, ijro etmoq
 	234. greed(n) - ochko'zlik
 	     greedy(adj) - ochko'z
@@ -343,9 +343,8 @@
 	236. selfish(n, adj) - egoist, xudbin
 	237. altruistic(adj) - fidokor
 	     altruist(n) - fidokor kishi
-	238.
-
-
+	238. assign(v) - belgilamoq, tayinlamoq, biriktirmoq
+	239. revert(v) - eski holatga qaytarmoq
 
 
 
