@@ -1,0 +1,4 @@
+Your token was replaced with a new one. You can use this token to access HTTP API:
+1038081989:AAHfMUWCUQnqXZX5e-JCztdHM-F0tprPYhA
+
+
