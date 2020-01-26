@@ -370,7 +370,8 @@
 			  -- bog'lam, dasta
 	250. jumbo(adj) -- bahaybat, ulkan
 	251. justify(v) -- oqlamoq, ayibsiz deb topmoq
-
+	252. eloquent(adj) -- gapga usta, so'zzga chechan
+	     eloquence(n) || elocution(n) -- notiqlik, notiqlik san'ati
 
 
 
