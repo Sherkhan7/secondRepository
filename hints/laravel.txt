@@ -1,3 +1,13 @@
+Request $request
+
+$request->all();
+$request->only('input-name', 'input-name');
+
+$request->server();
+$request->segment();
+$request->flush();
+$request->old('name');
+
 Your token was replaced with a new one. You can use this token to access HTTP API:
 1038081989:AAHfMUWCUQnqXZX5e-JCztdHM-F0tprPYhA
 

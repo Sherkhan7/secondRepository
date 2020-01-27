@@ -5,7 +5,7 @@
 	5. parse(v) -- grammatik tahlil qilish
 	6. plain(n) || plane(n) tekislik, tekis yer
 	   plain(adj) || obvious(adj) -- oddiy, aniq, ravshan, tushunarli
-	7. figure--out(v) -- tushunmoq, yechimini topmoq
+	7. figure-out(v) -- tushunmoq, yechimini topmoq
 	8. encounter(v,n) || come across(v) -- to'satdan uchrashib qolmoq, duch kelmoq
 	9. mismatch(n) -- yomon birlashuv, bir-biriga to'g'ri kelmaydigan
 	10. explicit(adj) -- ochiq,oshkora,ro'yi-rost
@@ -32,7 +32,8 @@
 	    idler(n) || lazy person -- dangasa kishi
 	26. offensive(n, adj) -- hujum, bostirib borish, yurish
 				qo'pol, yoqimsiz
-	27. queue(n, v) || line(n) -- navbat, navbatga turmoq
+	27. queue(v, n) || line(v, n) -- navbatga turmoq
+				      -- navbat
 	28. artisan || craftsman -- hunarmand, kosib
 	29. token(n) -- jeton, ramz, belgi
 	30. inbound and outbound(n) -- kirivchi va chiquvchi
@@ -41,27 +42,28 @@
 	33. deal(v, n) -- taqsimlamoq, tarqatmoq
 		       -- kelishuv, hamkorlik
 	34. stub(n) -- qoldiq, ishlatilib kichrayib qolgan narsa(M:sigaret, qalam yoki chipta qoldig'i)
-	35. harmful || destructive(adj) -- zararli, zarar keltiradigan
-	36. human beings -- odamzod
-	37. demand(n, v) -- talab, talab qilmoq
+	35. harmful(adj) || destructive(adj) -- zararli, zarar keltiradigan
+	36. human beings(n) -- odamzod
+	37. demand(v, n) -- talab qilmoq
+			 -- talab
 	38. supply(v, n) || provide(v) -- ta'minlamoq
 			 	       -- taklif
 	39. derive(v) -- ega bo'lmoq, sazovor bo'lmoq, olmoq
-		        kelib chiqmoq, hosil bo'lmoq
+		      -- kelib chiqmoq, hosil bo'lmoq
 	40. seed(n) -- urug', danak, don
 	41. raspberry(n) -- malina
 	42. blackberry(n) -- maymunjon
 	43. blueberry(n) -- chernika
 	44. bias(n) -- xato fikr, noto'g'ri tushuncha
-	              tarafkashlik,bir tarafga yon bosish 
-		      dioganal yo'nalish
+	            -- tarafkashlik,bir tarafga yon bosish 
+		    -- dioganal yo'nalish
 	45. influence(v, n) -- ta'sir ko'rsatmoq
-			    -- ta'sir,
+			    -- ta'sir
 	46. fed up(adj) -- joniga tekkan, zerikkan
 	47. appropriate(adj) -- munosib, muvofiq, loyiq
 	48. inappropriate(adj) -- nomunosib, noloyiq, muvofiq emas
 	49. blade(n) -- tig'
-	50. flat(asd) -- tekis, silliq, yassi
+	50. flat(adj) -- tekis, silliq, yassi
 	51. rear(n) -- orqa, obyekning orqa tomoni
 	    rear || bottom
 	52. vehicle(n) -- transport vositasi
@@ -83,7 +85,7 @@
 	66. complete(v, n) -- tugatmoq, nihoyasiga yetmoq
 			   -- to'liq, tugallangan, tugatilan
 	67. ensure(v) -- ta'minlamoq, kafolatlamoq
-	68. fair(adj) -- adolatli, xolis
+	68. faiadj) -- adolatli, xolis
 	69. scratch(v, n) -- tirnamoq, qashimoq
 		    	  -- tirnoq izi
 	70. itch(v, n) -- qichimoq
@@ -95,17 +97,17 @@
 	75. admire(v) -- maftun bo'lmoq, qoyil qolmoq, zavqlanmoq
 	    admirer(n) -- muxlis, ixlosmand, ishqiboz
 	76. idol(n) || hero -- but, sanam, yaxshi ko'rgan narsa/kimsa
-	77. issue(n, v) -- muammo, bahsli masala
+	77. issue(v, n) -- chiqarmoq, tarqatmoq
 			-- nashr, yangi son
-			-- chiqarmoq, tarqatmoq
+			-- muammo, bahsli masala
 	78. range(n) -- qator, liniya
 		     -- ma'lum chegaradagi miqdor
 	    a range of 3000km -- masofa
 	    range(v) -- qator qilib tahlamoq, safga tizmoq
 	79. deafen(v) -- kar qilmoq, quloqni bitirmoq
 	    deafening(adj) -- juda baland
-	80. flush(n, v) -- yuzdagi qizarish
-			-- yuzi qizarmoq
+	80. flush(v, n) -- yuzi qizarmoq
+			-- yuzdagi qizarish
 	    flush(v) -- hojatxona suvini tortmoq, suv oqimi bilan tozalash
 	81. embarress(v) -- xijolat qilmoq, noqulay holatga solmoq, uyaltirmoq
 	82. rough(adj) -- g'adir--budur, dag'al
@@ -133,10 +135,10 @@
 	96. enclose(v) -- devor, panjara va hokazolar bilan o'rab olmoq
 	97. entire(adj) || whole(adj) -- butun
 	98. repository(n) || store(n) -- omborxona
-	99. track(n, v)	-- so'qmoq, yo'lak
+	99. track(v, n) -- qidirmoq, izidan tushmoq
+			-- so'qmoq, yo'lak
 			-- yo'lda qoldirilgan iz, belgi
 			-- rels yo'li, temir yo'l relsi
-			-- qidirmoq, izidan tushmoq
 	100. commit(v) -- sodir etmoq, qo'l urmoq
 	     commitment(n) -- etiqod, ishonch
 	101. emphasize(v) || stress(v) -- ur'gu bermoq, ta'kidlamoq, kuchli e'tibor bermoq
@@ -157,14 +159,15 @@
 	114. partial(adj) -- qisman, biroz
 	115. relevant(adj) -- muhim o'rin tutgan, ahamiyatga ega bo'lgan
 	116. revoke(v) -- bekor qilmoq
-	117. compromise(n, v) -- murosa, bir-birga yon bermoq, murosaga kelmoq
+	117. compromise(v, n) -- bir-birga yon bermoq, murosaga kelmoq
+			      -- murosa
 	118. maintain(v) -- davom ettirmoq
 			 -- ta'mirlamoq, tuzatmoq
 			 -- moddiy qo'llamoq, boqmoq
 	     maintenance(n) -- ta'mir, ta'mirlash, tuzatish
 			    -- aliment
 	119. latency(n) -- kechikish
-			  yashirin holat
+			-- yashirin holat
 	     latent(adj) -- sirtdan sezilmaydigan, yashirin lekin keyinchalik seziladigan
 	120. merge(v) -- birlashtirmoq [to join things together to form one thing]
 	121. origin(n) -- kelib chiqish joyi, paydo bo'lish, manbasi, asos
@@ -224,8 +227,8 @@
 	160. utilize(v) -- foydalanmoq, qo'llamoq
 	161. dependency(n) -- qaramlik, tobe bo'lishlik, tobelik
 	162. failure(n) -- muvaffaqiyasizlik, omadsizlik
-	163. halt(n, v) -- qisqa to'xtash
-			-- to'xtatmoq
+	163. halt(v, n) -- to'xtatmoq
+			-- qisqa to'xtash
 	164. peer(n) -- tengdosh, tengqur
 	165. trivial(adj) -- ahamiyatsiz, arzimas
 	166. state(v) -- bildirmoq,  izhor etmoq
@@ -256,7 +259,9 @@
 			  -- rag'batlantirmoq, qo'llamoq
 	180. impact(n) -- ta'sir, ta'sir ko'rsatish
 		       -- zarba, impuls, urish, itarish
-	181. aggregate(n, v) -- hammasi, jami, barchasi
+	181. aggregate(v, n, adj) -- jamlamoq, yig'moq 
+				  -- hammasi, jami, barchasi
+				  -- jamlangan, yig'ilgan
 			     -- jamlash, yig'ish
 	182. append(v) -- qo'shmoq, birlashtirmoq, qo'shib yubormoq
 	183. redundant(adj) -- ishdan bo'shatilgan
@@ -354,7 +359,7 @@
 			 -- metalga shakl bermoq
 			 -- temirchilik ustaxonasi
 	     forgery(v) -- soxtalashtirish, qalbakilashtirish
-	242. couterfeit(adj) || fake(adj) -- qalbaki, soxta
+	242. counterfeit(adj) || fake(adj) -- qalbaki, soxta
 	243. imitate(v) -- taqlid qilmoq, imitatsiya qilmoq
 	     imitation(n) -- taqlid, o'xshatib ishlangan narsa
 	     imitator(n) -- taqlidchi
@@ -363,14 +368,14 @@
 			     -- ko'maklashmoq, jadallashtirmoq
 	246. furthermore(adv) -- shunga  ko'ra
 	247. envision(v) -- oldindan ko'rmoq, faraz qilmoq, tasavvur qilmoq
-	     envisionn || envisage || imagine
+	     envision || envisage || imagine
 	248. rarely(adv) -- kamdan-kam
 	249. bundle(v, n) -- dasta qilib o'ramoq
 			  -- itarib/turtib kirgizmoq
 			  -- bog'lam, dasta
 	250. jumbo(adj) -- bahaybat, ulkan
 	251. justify(v) -- oqlamoq, ayibsiz deb topmoq
-	252. eloquent(adj) -- gapga usta, so'zzga chechan
+	252. eloquent(adj) -- gapga usta, so'zga chechan
 	     eloquence(n) || elocution(n) -- notiqlik, notiqlik san'ati
 
 
