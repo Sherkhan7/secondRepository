@@ -1,12 +1,18 @@
 Request $request
 
-$request->all();
-$request->only('input-name', 'input-name');
-
-$request->server();
-$request->segment();
-$request->flush();
-$request->old('name');
+$request->all(); // Get all of the input and files for the request.
+$request->only('input-name', 'input-name'); // or $request->only(['input-name', 'input-name']);
+$request->except('input-name', 'input-name'); // or $request->except(['input-name', 'input-name']);
+$request->server(); // returns $_SERVER super-global
+$request->segment(1); // Get a segment from the URI (1 based index).
+$request->segments(); // Get segments from the URI
+$request->flush(); // Flush all of the old input from the session.
+$request->old('name'); // Retrieve an old input item.
+$request->path(); // Get the current path info for the request
+$request->url(); // Get the URL (no query string) for the request.
+$request->fullUrl(); // Get the full URL for the request.
+$request->is('contacts/*'); // Determine if the current request URI matches a pattern.
+$request->isMethod('post'); // Determine if the current method is POST.
 
 Your token was replaced with a new one. You can use this token to access HTTP API:
 1038081989:AAHfMUWCUQnqXZX5e-JCztdHM-F0tprPYhA

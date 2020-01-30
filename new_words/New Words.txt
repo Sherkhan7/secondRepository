@@ -208,7 +208,7 @@
 			   -- sharshara, shalola
 	147. constraint(n) -- cheklov, majburlash
 	     constrain(v) -- majburlamoq, erkinligini tiymoq
-	148. retrieve(v) -- qaytarmoq, oldingi holatiga qaytarmoq
+	148. retrieve(v) || recover(v) -- qaytarmoq, oldingi holatiga qaytarmoq
 	149. intend(v) -- rejalashtirmoq, niyat qilmoq
 	150. deploy(v) -- taxt/tayyor holga keltirmoq
 	151. coverage(n) -- matbuot, radio, tv da hodisalarni yoritish
@@ -377,6 +377,15 @@
 	251. justify(v) -- oqlamoq, ayibsiz deb topmoq
 	252. eloquent(adj) -- gapga usta, so'zga chechan
 	     eloquence(n) || elocution(n) -- notiqlik, notiqlik san'ati
+	253. repetitive(adj) || repetitious(adj) -- takrorlanadigan, zerikarli
+	245. interact(v) -- o'zaro ta'sir qilmoq/ko'rsatmoq, o'zaro bog'lanmoq
+	246. fairly(adv) -- qonunda rioya qilgan holda, vijdonan
+			 -- yetarli darajada, yaxshigina
+	247. capable(adj) -- qobilyatli, layoqatli, mohir
+	     incapable(adj) -- qobilyatsiz, qo'ldan kelmaydiagan, no'noq
+	
+
+
 
 
 
