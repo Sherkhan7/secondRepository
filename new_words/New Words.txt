@@ -239,9 +239,9 @@
 	170. behaviour(n) -- xulq-odat, xatti-harakat, fe'latvor
 	171. generate(v) -- issiqlik/quvvat ishlab chiqarmoq
 			 -- yaralishiga sababchi bo'lmoq
-	172. trace(n) -- alomat, belgi, nishona
-		      -- asorat, iz
-	     trace(v) -- izini topmoq, iziga tushmoq
+	172. trace(v, n) -- izini topmoq, iziga tushmoq
+			 -- asorat, iz
+			 -- alomat, belgi, nishona
 	173. stack(v, n) -- taxlamoq, uymoq
 			 -- dasta, bog'lam, uyum
 	174. proper(adj) -- haqiqiy, chin
@@ -378,13 +378,16 @@
 	252. eloquent(adj) -- gapga usta, so'zga chechan
 	     eloquence(n) || elocution(n) -- notiqlik, notiqlik san'ati
 	253. repetitive(adj) || repetitious(adj) -- takrorlanadigan, zerikarli
-	245. interact(v) -- o'zaro ta'sir qilmoq/ko'rsatmoq, o'zaro bog'lanmoq
-	246. fairly(adv) -- qonunda rioya qilgan holda, vijdonan
+	254. interact(v) -- o'zaro ta'sir qilmoq/ko'rsatmoq, o'zaro bog'lanmoq
+	255. fairly(adv) -- qonunda rioya qilgan holda, vijdonan
 			 -- yetarli darajada, yaxshigina
-	247. capable(adj) -- qobilyatli, layoqatli, mohir
+	256. capable(adj) -- qobilyatli, layoqatli, mohir
 	     incapable(adj) -- qobilyatsiz, qo'ldan kelmaydiagan, no'noq
-	
-
+	257. wink(v) -- ko'z qismoq
+	258. beak(n) -- tumshuq
+	259. horn(n) -- shox(hayvon)
+		     -- signal, burg'i
+	260. mesmerize(adj) -- gipnoz qilmoq
 
 
 
