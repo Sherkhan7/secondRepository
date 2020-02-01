@@ -388,8 +388,15 @@
 	259. horn(n) -- shox(hayvon)
 		     -- signal, burg'i
 	260. mesmerize(adj) -- gipnoz qilmoq
-
-
+	261. violate(v, n) -- qonunni/kelishuvni buzmoq
+			   -- rioya qilmaslik
+	     violation(n) -- buzish, bajarmaslik
+	262. violent(adj) -- zo'ravon, zolim
+	     violence(n) -- kuch ishlatish, zo'ravonlik
+	263. excerpt(n) -- ko'chirma, nusxa			   
+	264. efford(v) -- imkoniyatga ega bo'lmoq, qurbi yetmoq
+	     effordable(adj) -- maqbul
+	265. emission(n) -- ajralib chiqqan
 
 
 
