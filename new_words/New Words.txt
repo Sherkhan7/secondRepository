@@ -180,8 +180,8 @@
 	126. principle(n) -- printsip, tamoyil
 	127. extract(v) || pull out(v) -- ajratib olmoq
 	128. refactor(v) -- qayta ishlab chiqmoq
-	129. lack(v) -- yetmaslik, kam bo'moq
-	     lack(n) -- yo'qlik, yetishmovchilik
+	129. lack(v, n) -- yetmaslik, kam bo'moq
+	     		-- yo'qlik, yetishmovchilik
 	     lacking(adj) -- yetishmaydigan, kam
 	130. profit(v, n) -- foyda qilmoq
 			  -- foyda
@@ -396,7 +396,22 @@
 	263. excerpt(n) -- ko'chirma, nusxa			   
 	264. efford(v) -- imkoniyatga ega bo'lmoq, qurbi yetmoq
 	     effordable(adj) -- maqbul
-	265. emission(n) -- ajralib chiqqan
+	265. emit(v) -- chiqarmoq, taratmoq, ajratmoq
+	     emission(n) -- ajralib chiqish, chiqarish
+	266. dump(v, n) -- uymoq, to'plamoq
+			-- tashlamoq, tashlab ketmoq
+			-- axlatxona, axlat uyumi
+			-- kir,iflos, yoqimsiz joy
+	267. offset(v) -- o'rnini to'ldirmoq, zararini qoplamoq
+	268. bind(v) -- bog'lamoq, bog'lab qo'ymoq
+	269. fluent(adj) -- erkin, tekis, ravon
+	270. chain(n) -- zanjir, tizim
+		      -- ketma-ketlik
+
+
+
+
+
 
 
 
