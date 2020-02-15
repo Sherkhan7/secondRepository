@@ -11,7 +11,7 @@
 	10. explicit(adj) -- ochiq,oshkora,ro'yi-rost
 	11. exceed(v) -- oshirib yubormoq, chegaradan chiqmoq
 	12. dependent(adj) -- qaram, tobe'
-	13. precision(n) -- aniqlik
+	13. precision(n) || accuracy(n) || clarity(n) -- aniqlik
 	14. coalesce(v) || fuse(v) -- birlashtirmoq, aralashtirmoq, qorishtirmoq
 	15. descending(adj) -- kamayib boradigan
 	16. ascending(adj) -- o'sib boradigan
@@ -19,7 +19,7 @@
 	18. embrace(n) || hug(n) -- quchoqlashmoq
 	19. indeces(n) -- a plural of index
 	20. temporary(adj) -- vaqtinchalik, uzoq davom etmaydigan
-	21. constant(adj) || permanent(adj) -- doimiy, o'zgarmas
+	21. constant(adj) || permanent(adj) || immutable(adj) -- doimiy, o'zgarmas
 	22. sanitize(v) -- sog'lomlashtirmoq
 	23. instance(n) -- namuna, o'rnak
 	24. restrict(v) -- chegaralamoq, cheklamoq
@@ -434,10 +434,10 @@
 	284. proposal(n) || offer(n) || suggestion(n) || invitation(n) -- taklif
 	285. substitute(v, n) || replace(v) || change(v) -- o'rnida ishlamoq, o'rnini bosmoq, almashtirmoq
 							 -- o'rinbosar, muovin
-
-
-
-
+	286. reliable(adj) || confident(adj) || faithful(adj) -- ishonchli
+	     reliability(n) -- ishonchlilik
+	287. slug(n) || snail(n) -- shilliqurt
+	288. stash(v) -- saqlab qo'ymoq
 
 
 
