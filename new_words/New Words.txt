@@ -438,7 +438,7 @@
 	     reliability(n) -- ishonchlilik
 	287. slug(n) || snail(n) -- shilliqurt
 	288. stash(v) -- saqlab qo'ymoq
-	289. 
+	289. martial(adj) || militant(adj) -- jangovar
 
 
 
