@@ -439,7 +439,14 @@
 	287. slug(n) || snail(n) -- shilliqurt
 	288. stash(v) -- saqlab qo'ymoq
 	289. martial(adj) || militant(adj) -- jangovar
-
+	290. convention(n) -- syezd, qurultoy
+			   -- udum, tamoil
+			   -- konventsiya
+	300. explode(v) -- portlamoq, portlatmoq
+	301. departure(n) -- ketish, jo'nash, safar
+	302. replica(n) -- nusxa[especially a building, a gun or a work of art]
+	303. replicate(v) -- nusxa ko'chirish, ko'paytirmoq
+	304. observe(v) || follow(v) || practice(v) -- kuzatmoq, amal qilmoq
 
 
 
