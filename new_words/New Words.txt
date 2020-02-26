@@ -421,7 +421,7 @@
 			 -- iz, asorat, belgi
 			 -- yo'lka, yo'l
 	     trailer(n) -- tirkama, kinodan lavhalar
-	     trailblazing(asj) -- yangi, qiziq, hayajonli
+	     trailblazing(adj) -- yangi, qiziq, hayajonli
 	279. trait(n) -- o'ziga xos xususiyat, xislat
 	280. supple(adj) -- egiluvchan, bukiluvchan, qayishqoq
 	     suppleness(n) -- egiluvchanlik, qayishqoqlik
@@ -447,8 +447,8 @@
 	302. replica(n) -- nusxa[especially a building, a gun or a work of art]
 	303. replicate(v) -- nusxa ko'chirish, ko'paytirmoq
 	304. observe(v) || follow(v) || practice(v) -- kuzatmoq, amal qilmoq
-
-
+	305. confine(v) -- cheklamoq, chegaralamoq
+	     confinement(n) -- cheklash, chek qo'yish
 
 
 
