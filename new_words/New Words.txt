@@ -459,7 +459,7 @@
 	307. utensil(n) -- idish-tovoqlar
 	308. mop(v, n) -- shvabra bilan artmoq
                        -- shvabra
-        309. grocery(n) -- oziq-ovqat
+       309. grocery(n) -- oziq-ovqat
 
 
 
