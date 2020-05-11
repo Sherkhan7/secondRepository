@@ -41,7 +41,9 @@
 	32. batch(n) -- gruppa, partiya
 	33. deal(v, n) -- taqsimlamoq, tarqatmoq
 		       -- kelishuv, hamkorlik
-	34. stub(n) -- qoldiq, ishlatilib kichrayib qolgan narsa(M:sigaret, qalam yoki chipta qoldig'i)
+	34. stub(n)
+	-- qoldiq
+	-- ishlatilib kichrayib qolgan narsa(M:sigaret, qalam yoki chipta qoldig'i)
 	35. harmful(adj) || destructive(adj) -- zararli, zarar keltiradigan
 	36. human beings(n) -- odamzod
 	37. demand(v, n) -- talab qilmoq
@@ -141,7 +143,8 @@
 			-- rels yo'li, temir yo'l relsi
 	100. commit(v) -- sodir etmoq, qo'l urmoq
 	     commitment(n) -- etiqod, ishonch
-	101. emphasize(v) || stress(v) -- ur'gu bermoq, ta'kidlamoq, kuchli e'tibor bermoq
+	101. emphasize(v) || stress(v) 
+                -- ur'gu bermoq, ta'kidlamoq, kuchli e'tibor bermoq
 	102. routine(n) -- doimiy belgilangan tartib 
 	103. treasure(n) -- xazina, boylik
 	104. threat(n) -- xavf, xatar, tahdid
@@ -167,8 +170,9 @@
 	     maintenance(n) -- ta'mir, ta'mirlash, tuzatish
 			    -- aliment
 	119. latency(n) -- kechikish
-			-- yashirin holat
-	     latent(adj) -- sirtdan sezilmaydigan, yashirin lekin keyinchalik seziladigan
+			 -- yashirin holat
+	     latent(adj) 
+                -- sirtdan sezilmaydigan, yashirin lekin keyinchalik seziladigan
 	120. merge(v) -- birlashtirmoq [to join things together to form one thing]
 	121. origin(n) -- kelib chiqish joyi, paydo bo'lish, manbasi, asos
 	122. approve(v) -- to'g'ri deb qabul qilmoq, rozi bo'lmoq
@@ -273,8 +277,9 @@
 	186. trigger(v, n) -- o'rnatmoq
 			   -- qurol tepkisi
 	187. impressive(adj) -- zo'r taassurot qoldiradigan, ta'sirli
-	188. extravagant(adj) -- isrofgar/isrof qiladigan, sovurib yuboruvchi
-			      -- very impressive because of being expensiva/beautiful
+	188. extravagant(adj)
+                -- isrofgar/isrof qiladigan, sovurib yuboruvchi
+                -- very impressive because of being expensiva/beautiful
 	    extravagance(n), extravagantly(adv)
 	189. illuminate(v) -- chiroqlar bilan bezatmoq, yoritmoq
 			   -- ravshanlashtirmoq, oydinlashtirmoq
@@ -432,8 +437,9 @@
 	     pivot(n) -- tayanch/asosiy nuqta
 	283. inverse(adj) -- qarama-qarshi, teskari
 	284. proposal(n) || offer(n) || suggestion(n) || invitation(n) -- taklif
-	285. substitute(v, n) || replace(v) || change(v) -- o'rnida ishlamoq, o'rnini bosmoq, almashtirmoq
-							 -- o'rinbosar, muovin
+	285. substitute(v, n) || replace(v) || change(v) 
+                -- o'rnida ishlamoq, o'rnini bosmoq, almashtirmoq
+                -- o'rinbosar, muovin
 	286. reliable(adj) || confident(adj) || faithful(adj) -- ishonchli
 	     reliability(n) -- ishonchlilik
 	287. slug(n) || snail(n) -- shilliqurt
@@ -449,6 +455,14 @@
 	304. observe(v) || follow(v) || practice(v) -- kuzatmoq, amal qilmoq
 	305. confine(v) -- cheklamoq, chegaralamoq
 	     confinement(n) -- cheklash, chek qo'yish
+	306. condiment(n) -- ziravor
+	307. utensil(n) -- idish-tovoqlar
+	308. mop(v, n) -- shvabra bilan artmoq
+                       -- shvabra
+        309. grocery(n) -- oziq-ovqat
+
+
+
 
 
 
