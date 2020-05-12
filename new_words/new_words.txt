@@ -459,9 +459,27 @@
 	307. utensil(n) -- idish-tovoqlar
 	308. mop(v, n) -- shvabra bilan artmoq
                        -- shvabra
-       309. grocery(n) -- oziq-ovqat
-
-
+     	309. grocery(n) -- oziq-ovqat
+     	310. wig(n) -- parik
+     	311. mutual(adj) -- o'zaro
+     	     mutually(adv) -- ikki taraflama
+     	312. mock(v, adj) -- mazax, kalaka qilmoq
+			  -- soxta, qalbaki
+     	311. hone(v, n) -- qayramoq, o'tkirlamoq
+     			-- qayroqtosh
+     	312. indeed(adv) -- haqiqatan, chindan ham
+     	313. uncanny(adj) || horrible || terrible || awful -- vahimali, qo'rqinchli
+     	314. crew(n) -- ekipaj
+     	315. surgeon(n) -- jarroh
+     	316. trauma(n) -- shikast, jarohat, tramva
+     	
+     	
+     	
+     	
+     	
+     	
+     	
+     	    
 
 
 
