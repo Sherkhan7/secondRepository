@@ -472,8 +472,15 @@
      	314. crew(n) -- ekipaj
      	315. surgeon(n) -- jarroh
      	316. trauma(n) -- shikast, jarohat, tramva
-     	
-     	
+     	317. notorious(adj) -- yomon nom chiqargan
+     	318. praise(v) -- maqtamoq, madh etmoq
+     	319. inflate(v) -- havo bilan shishirmoq   	
+     	320. prose(n) -- nasr, proza
+     	321. barren(adj) -- naslsiz, bepusht
+     			  -- unumsiz, natijasiz
+	322. quirk(n) -- g'ayri oddiy qiliq/harakat
+	     quirky(adj) -- g'ayri oddiy (insonga nisbatan)
+	323. exclamation -- undov, xitob
      	
      	
      	
