@@ -485,8 +485,8 @@
      	325. beverage(n) -- ichimlik
      	326. standalone(adj) -- alohida, mustaqil
      	327. complain(v) -- shikoyat qilmoq
-     	
-     	
+     	328. rut(n) -- g'ildirak izi
+     	     in a rut -- living or working in a situation that never changes
      	
      	
      	
